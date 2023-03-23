@@ -1,0 +1,15 @@
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\bin\Debug\net6.0\Homework05.exe
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\bin\Debug\net6.0\Homework05.deps.json
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\bin\Debug\net6.0\Homework05.runtimeconfig.json
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\bin\Debug\net6.0\Homework05.dll
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\bin\Debug\net6.0\Homework05.pdb
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\Homework05.csproj.AssemblyReference.cache
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\Homework05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\Homework05.AssemblyInfoInputs.cache
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\Homework05.AssemblyInfo.cs
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\Homework05.csproj.CoreCompileInputs.cache
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\Homework05.dll
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\refint\Homework05.dll
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\Homework05.pdb
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\Homework05.genruntimeconfig.cache
+C:\Users\Tutarkov\OneDrive\Desktop\Homework\Homework05\Homework05\Homework05\obj\Debug\net6.0\ref\Homework05.dll
